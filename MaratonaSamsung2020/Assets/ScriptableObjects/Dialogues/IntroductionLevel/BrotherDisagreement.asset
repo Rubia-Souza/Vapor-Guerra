@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7695b33d60b7bdd49b0d694feeeea396, type: 3}
+  m_Name: BrotherDisagreement
+  m_EditorClassIdentifier: 
+  speeches:
+  - npcName: "Irm\xE3o"
+    sentence: "Irm\xE3o! Tem certeza que vai fazer isso? Sei que nossa situa\xE7\xE3o
+      n\xE3o \xE9 boa, mas n\xE3o sei como isso vai melhorar as coisas\u2026"
+  - npcName: "Irm\xE3o"
+    sentence: "Destruir as m\xE1quinas? Ideia de maluco! Pense como era antes, como
+      era no campo. N\xF3s viemos para a cidade para ter uma vida melhor. Por que
+      voc\xEA n\xE3o se conforma?"
+  - npcName: Jogador
+    sentence: "Como voc\xEA quer se conformar sendo tratado assim? At\xE9 as crian\xE7as
+      trabalham o dia inteiro e em p\xE9ssimas condi\xE7\xF5es. N\xE3o d\xE1 para
+      ficar sem fazer nada!"
+  - npcName: "Irm\xE3o"
+    sentence: "Pelo menos a gente tem um trabalho. L\xE1 no campo era s\xF3 n\xF3s,
+      esperando por colheitas boas para conseguir comer direito, fazendo trabalhos
+      manuais dia e noite."
+  - npcName: Jogador
+    sentence: "Mas n\xF3s viemos para a f\xE1brica para melhorar as nossas condi\xE7\xF5es
+      de vida e isso n\xE3o est\xE1 acontecendo. Precisamos lutar contra esses abusos!"

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0017f909aa9baf34cbdc7c236395d581, type: 3}
+  m_Name: Explosion1
+  m_EditorClassIdentifier: 
+  Velocity: 100
+  MaxRadius: 40
+  SoundFile: {fileID: 8300000, guid: 049c81115269ebb4991aad18c4895346, type: 3}
+  PropagateByFixedTime: 0
+  PropagationTime: 5.9559183

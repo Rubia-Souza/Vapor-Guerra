@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7695b33d60b7bdd49b0d694feeeea396, type: 3}
+  m_Name: BrotherCityArriveDialogue
+  m_EditorClassIdentifier: 
+  speeches:
+  - npcName: Jogador
+    sentence: Chegamos!
+  - npcName: "Irm\xE3o"
+    sentence: "O que vamos fazer, irm\xE3o? O que vai acontecer conosco?"
+  - npcName: "Irm\xE3o"
+    sentence: "Nossa vida acabou depois que o campo secou. N\xE3o tenho mais esperan\xE7a!
+      Como faremos?"
+  - npcName: Jogador
+    sentence: "Estamos na cidade! Aqui conseguiremos emprego, conseguiremos alimentar
+      nossas fam\xEDlias\u2026"
+  - npcName: Jogador
+    sentence: conseguirei alimentar minha filha.
+  - npcName: "Irm\xE3o"
+    sentence: "Mas\u2026 meu filho \xE9 pequeno, sua filha, rec\xE9m-nascida, e sua
+      mulher ainda n\xE3o se recuperou do parto. Como vamos arcar com tudo isso?\r"
+  - npcName: Jogador
+    sentence: "Eu sei, irm\xE3o, mas n\xE3o temos o que fazer! \xC9 nossa chance para
+      conseguir uma vida levemente melhor."
+  - npcName: Jogador
+    sentence: "Vamos trabalhar nas f\xE1bricas, conseguimos dinheiro para comer e
+      para nossa fam\xEDlia sobreviver. Temos que passar por isso\u2026"

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe96a285b2bfe384fa22c07941f38146, type: 3}
+  m_Name: Fordismo
+  m_EditorClassIdentifier: 
+  IsLocked: 0
+  DemonstrationImage: {fileID: 21300000, guid: e7b2d7bb046106d428d58e7720b3398d, type: 3}
+  Title: Fordismo
+  Description: "Fordismo foi um modelo de produ\xE7\xE3o em massa amplamente adotado
+    durante a Revolu\xE7\xE3o Industrial. Seu uso baseia-se na ado\xE7\xE3o de uma
+    linha de produ\xE7\xE3o na qual cada funcion\xE1rio exerce uma fun\xE7\xE3o especializada
+    na montagem do produto. Esse modelo foi respons\xE1vel por reduzir o custo dos
+    produtos e aumentar sua quantidade no mercado. Contudo, ele pode ser duramente
+    criticado por causar a aliena\xE7\xE3o dos trabalhadores envolvidos, al\xE9m de
+    grandes impactos ambientais."

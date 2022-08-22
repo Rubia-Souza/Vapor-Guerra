@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe96a285b2bfe384fa22c07941f38146, type: 3}
+  m_Name: ODS
+  m_EditorClassIdentifier: 
+  IsLocked: 1
+  DemonstrationImage: {fileID: 21300000, guid: 76734e7c5a0a11f47b92bf1e29a13a03, type: 3}
+  Title: A ODS
+  Description: "A industrializa\xE7\xE3o trouxe problemas enormes para o meio ambiente.
+    Por causa disso, hoje tratamos a sustentabilidade como uma quest\xE3o muito importante.
+    A Organiza\xE7\xE3o das Na\xE7\xF5es Unidas (ONU) criou os Objetivos de Desenvolvimento
+    Sustent\xE1vel (ODS) atrelado a uma agenda a ser cumprida at\xE9 2030. Um dos
+    objetivos \xE9 \u201Cassegurar padr\xF5es de produ\xE7\xE3o e consumo sustent\xE1veis\u201D,
+    e consiste, por exemplo, nos pa\xEDses conseguirem controlar e usar recursos f\xF3sseis
+    de maneira eficiente, reduzir pela metade o desperd\xEDcio de alimentos, reduzir
+    a gera\xE7\xE3o de res\xEDduo por meio de preven\xE7\xE3o, redu\xE7\xE3o, reciclagem
+    e reuso, apoiar pa\xEDses a se desenvolverem e tornarem seus meios de produ\xE7\xE3o
+    mais sustent\xE1veis."

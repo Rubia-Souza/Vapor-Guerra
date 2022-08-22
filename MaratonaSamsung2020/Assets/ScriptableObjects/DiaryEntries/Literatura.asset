@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe96a285b2bfe384fa22c07941f38146, type: 3}
+  m_Name: Literatura
+  m_EditorClassIdentifier: 
+  IsLocked: 0
+  DemonstrationImage: {fileID: 21300000, guid: 0a19d7976bb44f84e9cc95233e4ec004, type: 3}
+  Title: "Revolu\xE7\xE3o Industrial & Literatura"
+  Description: "Na literatura, a Revolu\xE7\xE3o Industrial tamb\xE9m causou efeitos.
+    Alguns autores focaram mais no aspecto social, como no romance Tempos Dif\xEDceis
+    (1854) e outros de Charles Dickens; outros basearam-se na Mudan\xE7a da rela\xE7\xE3o
+    com a natureza, e passam a exalt\xE1-la em suas obras, como fez Charlotte Bront\xEB
+    em seu \xFAnico romance O Morro dos Ventos Uivantes (1847). A industrializa\xE7\xE3o
+    abriu as porta tamb\xE9m para a fantasia e o futurismo baseado nas m\xE1quinas
+    e na ci\xEAncia."

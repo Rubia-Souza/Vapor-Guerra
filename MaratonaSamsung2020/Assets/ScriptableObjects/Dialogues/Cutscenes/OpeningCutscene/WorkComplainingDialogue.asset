@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7695b33d60b7bdd49b0d694feeeea396, type: 3}
+  m_Name: WorkComplainingDialogue
+  m_EditorClassIdentifier: 
+  speeches:
+  - npcName: Jogador
+    sentence: "CRIAN\xC7AS! Eles se aproveitam de n\xF3s, trabalhamos para receber
+      pouco, trabalhamos enquanto eles se divertem, trabalhamos o tempo todo para
+      deixar eles mais ricos."
+  - npcName: Jogador
+    sentence: "At\xE9 mesmo crian\xE7as eles querem levar para trabalhar, se aproveitam
+      do tamanho, da fragilidade delas!"
+  - npcName: Jogador
+    sentence: Elas se machucam, perdem partes do corpo, como eles ousam?
+  - npcName: "Irm\xE3o"
+    sentence: "\xC9 triste irm\xE3o, mas n\xE3o temos o que fazer! \xC9 assim a vida
+      na cidade!"
+  - npcName: "Irm\xE3o"
+    sentence: "N\xE3o v\xE1 fazer nada de errado! J\xE1 n\xE3o recebemos nada, se
+      voc\xEA for pego fazendo alguma coisa, pode ir preso..."
+  - npcName: "Irm\xE3o"
+    sentence: "O que faremos sem voc\xEA?\r"
+  - npcName: Jogador
+    sentence: "N\xE3o se preocupa com o que pode acontecer com o seu filho? Mas eu
+      e meus colegas j\xE1 pensamos em tudo."
+  - npcName: Jogador
+    sentence: "N\xF3s, trabalhadores, vamos nos unir, vamos conseguir mostrar para
+      eles que n\xE3o vamos ficar calados!"
+  - npcName: Jogador
+    sentence: "S\xF3 queremos viver bem, essa nossa vida n\xE3o \xE9 vida!\r"
+  - npcName: "Irm\xE3o"
+    sentence: "Tome cuidado! Sua fam\xEDlia precisa de voc\xEA..."

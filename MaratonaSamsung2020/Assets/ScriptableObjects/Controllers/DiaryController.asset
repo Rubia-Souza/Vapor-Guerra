@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a0ca74714422b942b6fc089b3035a84, type: 3}
+  m_Name: DiaryController
+  m_EditorClassIdentifier: 
+  DiaryEntries:
+  - {fileID: 11400000, guid: 1566ae4a0df4d804092b8a56bad81731, type: 2}
+  - {fileID: 11400000, guid: 6de5a2a9d52cba940834cc9e261be381, type: 2}
+  - {fileID: 11400000, guid: 95e9ad56122323b44bddeb58f632f1c4, type: 2}
+  - {fileID: 11400000, guid: ffd89fb3f2df03243b2b1491999003e2, type: 2}
+  - {fileID: 11400000, guid: 6a058ea6150b91d4d86a4eef222eeb76, type: 2}
+  - {fileID: 11400000, guid: 956d726fe47e2d34890abfe82c6c515c, type: 2}
+  - {fileID: 11400000, guid: 2271e73cd58334447b96b0b1debe2770, type: 2}
+  - {fileID: 11400000, guid: ee76c557c568709418dde3d975caeebc, type: 2}
+  unlockedDiaryEntryEvent: {fileID: 11400000, guid: 8c3c7c86e79c4f94c8bf267fc440d0ad,
+    type: 2}

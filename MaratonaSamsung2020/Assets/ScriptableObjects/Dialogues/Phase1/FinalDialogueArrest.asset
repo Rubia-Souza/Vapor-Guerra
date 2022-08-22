@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7695b33d60b7bdd49b0d694feeeea396, type: 3}
+  m_Name: FinalDialogueArrest
+  m_EditorClassIdentifier: 
+  speeches:
+  - npcName: Policial
+    sentence: "Parado a\xED! Que absurdo \xE9 este? O que pensam que est\xE3o fazendo?"
+  - npcName: Policial
+    sentence: "Voc\xEAs ser\xE3o presos por esse absurdo!\r\n"

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7695b33d60b7bdd49b0d694feeeea396, type: 3}
+  m_Name: MachinesAreBadForEnviroment
+  m_EditorClassIdentifier: 
+  speeches:
+  - npcName: Cientista
+    sentence: "Voc\xEAs n\xE3o veem? N\xE3o percebem? Essa fuma\xE7a! Nossas \xE1guas!"
+  - npcName: Jogador
+    sentence: "Do que voc\xEA est\xE1 falando?"
+  - npcName: Cientista
+    sentence: "Como voc\xEA n\xE3o v\xEA? As m\xE1quinas, as mesmas que facilitam
+      a produ\xE7\xE3o, soltam gases e essa fuma\xE7a terr\xEDvel."
+  - npcName: Cientista
+    sentence: "J\xE1 n\xE3o respiramos como antes, o c\xE9u n\xE3o \xE9 o mesmo, estamos
+      matando as \xE1rvores, os rios est\xE3o sujos!"
+  - npcName: Cientista
+    sentence: "Enquanto esses homens n\xE3o pararem de destruir a m\xE3e natureza,
+      tudo s\xF3 vai piorar!"
+  - npcName: Cientista
+    sentence: "Somente destruindo esses monstros que s\xE3o as m\xE1quinas que as
+      coisas poder\xE3o melhorar."
+  - npcName: Cientista
+    sentence: " Temos que par\xE1-los imediatamente!"
